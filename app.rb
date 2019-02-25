@@ -8,7 +8,7 @@ class App < Sinatra::Base
 
 
      get "/info" do
-       erb :index
+       erb :info
      end
 
 
